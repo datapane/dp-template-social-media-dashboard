@@ -1,5 +1,5 @@
 
-# Datapane template: <template_name>
+# Datapane template: Social media analytics
 
 This is a Datapane template.
 
@@ -37,7 +37,7 @@ Update this README to include template-specific content within the `<template_*>
 
 The template can be downloaded directly in archive file format, or directly through the Datapane package with the following command:
 
-`datapane template dp-<template_slug>`
+`datapane template dp-template-classifier-dashboard`
 
 # Dependencies
 
