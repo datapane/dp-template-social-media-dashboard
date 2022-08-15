@@ -1,12 +1,13 @@
 [tool.poetry]
-name = "dp-template-classifier-dashboard"
+name = "dp-template-social-media-analytics"
 version = "0.1.0"
-description = "Datapane Template: Performance Dashboard for Classifiers"
+description = "Datapane Template: Social media analytics"
 authors = ["Datapane <dev@datapane.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11.0"
 datapane = "^0.14.0"
+jupyterlab = "^3.4.3"
 
 [tool.poetry.dev-dependencies]
 
