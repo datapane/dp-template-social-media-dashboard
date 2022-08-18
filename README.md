@@ -3,7 +3,7 @@
 
 This is a Datapane template.
 
-It can be used as a starting point for creating a Datapane report that <template_description>.
+It can be used as a starting point for creating a Datapane report that highlights user engagement with social media channels.
 
 ## Download the template
 
