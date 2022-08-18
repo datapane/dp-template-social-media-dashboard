@@ -133,3 +133,6 @@ dmypy.json
 
 # Generated template files
 template.html
+
+# YouTube secret
+client_secret.json
