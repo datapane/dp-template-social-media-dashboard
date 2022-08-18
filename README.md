@@ -1,5 +1,5 @@
 
-# Datapane template: Social media analytics
+# Datapane template: Social media dashboard
 
 This is a Datapane template.
 
@@ -37,7 +37,7 @@ Update this README to include template-specific content within the `<template_*>
 
 The template can be downloaded directly in archive file format, or directly through the Datapane package with the following command:
 
-`datapane template dp-template-classifier-dashboard`
+`datapane template dp-template-social-media-dashboard`
 
 # Dependencies
 
@@ -49,4 +49,4 @@ This template may require additional third-party packages. A full list of requir
 
 # How to create a new Datapane template
 
-Visit [datapane/dp-template](https://github.com/datapane/dp-template-classifier-dashboard) for instructions on how to create a new Datapane template.
+Visit [datapane/dp-template](https://github.com/datapane/dp-template) for instructions on how to create a new Datapane template.
